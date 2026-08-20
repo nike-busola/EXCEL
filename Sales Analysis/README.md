@@ -109,6 +109,6 @@ Based on the analysis, management could:
 
 ## Project Files
 
-* `screenshots/` — Dashboard and analysis visuals
-* `report/` — Detailed project report
-* `data/` — Dataset used for analysis
+* screenshots/ — Dashboard and analysis visuals
+* report/ — Detailed project report
+* data/ — Dataset used for analysis
