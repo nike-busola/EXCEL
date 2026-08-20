@@ -45,8 +45,6 @@ The analysis includes:
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](screenshots/01-dashboard-overview.png)
-
 ## Key Performance Results
 
 | Metric                  |            Result |
@@ -61,23 +59,17 @@ The analysis includes:
 
 ## Sales Performance
 
-![Sales Performance](screenshots/02-sales-performance.png)
-
 Sales increased substantially across the period, rising from 30,000 in January to a peak of 130,000 in August.
 
 July and August represented the strongest sales months, while January recorded the lowest sales volume.
 
 ## Customer Growth
 
-![Customer Growth](screenshots/03-customer-growth.png)
-
 Customer volume increased from 300 in January to 2,000 in September.
 
 The strongest customer growth occurred during the second half of the period, with customer volume reaching 1,600 in June and 1,800 in July before reaching the period high of 2,000 in September.
 
 ## Regional Profitability
-
-![Regional Profitability](screenshots/04-regional-profitability.png)
 
 Brazil recorded the highest regional profit at 129,875, followed by Chile at 128,833 and Peru at 127,340.
 
