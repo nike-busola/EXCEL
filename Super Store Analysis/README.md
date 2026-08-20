@@ -114,6 +114,6 @@ The analysis uses:
 This project demonstrates the ability to take a transactional dataset, structure and analyse the information, build management-focused reporting, identify business performance issues, and communicate findings through a professional dashboard and analytical report.
 
 Project Files
-screenshots/ — Dashboard and analysis visuals
-report/ — Detailed project report
-data/ — Dataset used for analysis
+* screenshots/ — Dashboard and analysis visuals
+* report/ — Detailed project report
+* data/ — Dataset used for analysis
