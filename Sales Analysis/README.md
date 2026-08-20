@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes sales performance, customer growth, and regional profitability using Microsoft Excel.
+This project analyses sales performance, customer growth, and regional profitability using Microsoft Excel.
 
 The dashboard brings together monthly sales, target figures, customer volumes, profit by region, and performance completion indicators into a single management-friendly view.
 
